@@ -45,11 +45,9 @@ results/
 ```
 
 ## Pre-trained Model
-Download pre-trained model: [ppo_portfolio_final.zip](https://github.com/yourusername/rl-portfolio/releases/download/v1.0/ppo_portfolio_final.zip)
-
+Download pre-trained model: [ppo_portfolio_final.zip] (https://github.com/boraelle/RL_prj_stock_portfolio/tree/main/src/results/ppo_portfolio_final.zip)
 
 ## Project Structure
-
 ```
 ├── collect_data_etf13.py    # Data collection
 ├── environment.py           # RL environment
